@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080c10"/>
+      <stop offset="0.55" stop-color="#0d1318"/>
+      <stop offset="1" stop-color="#0f2b32"/>
+    </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#2dafcc" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <circle cx="1020" cy="110" r="230" fill="#1b6b7a" opacity="0.28"/>
+  <circle cx="90" cy="560" r="260" fill="#22899b" opacity="0.2"/>
+  <text x="100" y="125" fill="#2dafcc" font-family="'JetBrains Mono', Consolas, monospace" font-size="24" letter-spacing="5">// portfolio</text>
+  <text x="96" y="285" fill="#d8e4ec" font-family="Georgia, serif" font-size="112" font-weight="700">Nicolas</text>
+  <text x="96" y="405" fill="none" stroke="#2dafcc" stroke-width="3" font-family="Georgia, serif" font-size="112" font-weight="700">Limão</text>
+  <text x="104" y="485" fill="#8ba4b4" font-family="'JetBrains Mono', Consolas, monospace" font-size="28">Desenvolvedor web &amp; analista de suporte</text>
+  <text x="104" y="535" fill="#6d8494" font-family="'JetBrains Mono', Consolas, monospace" font-size="24">Python / APIs / automações com IA</text>
+  <text x="980" y="545" fill="#d8e4ec" font-family="Georgia, serif" font-size="48" font-weight="700">NL</text>
+  <circle cx="1055" cy="552" r="8" fill="#2dafcc"/>
+</svg>
